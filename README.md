@@ -1,1 +1,2 @@
-admin_master
+Username: admin_master
+Password: admin
